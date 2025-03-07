@@ -50,20 +50,20 @@ npm start
 
 **O backend estará rodando na porta 5000 por padrão, e você pode acessar as rotas da API em http://localhost:5000.**
 
-Rodando o Frontend
-Navegue até a pasta do frontend (onde está o projeto React):
+**Rodando o Frontend**
+_Navegue até a pasta do frontend (onde está o projeto React):
 cd frontend
 
 
-Instale as dependências:
+_ Instale as dependências:
 npm install
 
-Inicie o servidor de desenvolvimento:
+_Inicie o servidor de desenvolvimento:
 npm run dev
 
 **O frontend estará disponível em http://localhost:3000.**
 
-Endpoints da API
+_Endpoints da API
 
 GET /appointments: Retorna todos os agendamentos.
 POST /appointments: Adiciona um novo agendamento.
